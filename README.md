@@ -12,7 +12,7 @@ IT & Cybersecurity: Security+ Certified, Windows & macOS troubleshooting, Office
 
 Web Development: HTML, CSS, JavaScript, Python & Django, Responsive Design, Git / GitHub, Basic UI/UX
 
-I’m Preparing for ISC2 CC certification and studying key GRC frameworks: ISO 27001, NIST CSF, and SOC 2 Trust Services Criteria
+I’m preparing for ISC2 CC certification and studying key GRC frameworks: ISO 27001, NIST CSF, and SOC 2 Trust Services Criteria
 
 I’m currently looking for guidance on landing an entry-level IT / MSP / Helpdesk role to gain hands-on experience, and mentorship to navigate a future career in GRC (Governance, Risk, and Compliance).
 
