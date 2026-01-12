@@ -2,9 +2,9 @@
 
 ABOUT ME
 
-Entry-level IT & Cybersecurity enthusiast | Security+ | ISC2 CC | Front-End Developer  
-Passionate about solving problems, building web tools, and learning IT support and cybersecurity practices. 
-Actively seeking entry-level IT / Helpdesk / MSP roles to apply my technical and troubleshooting skills.
+Entry-level Cybersecurity (GRC) | Security+ | ISC2 CC | Front-End Developer  
+Passionate about solving problems, building web tools, and cybersecurity practices. 
+Actively seeking entry-level IT / GRC roles.
 
 SKILLS
 
@@ -12,7 +12,7 @@ IT & Cybersecurity: Security+ and CC Certified, Windows & macOS troubleshooting,
 
 Web Development: HTML, CSS, JavaScript, Python & Django, Responsive Design, Git / GitHub, Basic UI/UX
 
-I’m studying key GRC frameworks: ISO 27001, NIST CSF, and SOC 2 Trust Services Criteria
+In view: Key GRC frameworks: ISO 27001, NIST CSF, and SOC 2 Trust Services Criteria
 
 
 How to reach me:
